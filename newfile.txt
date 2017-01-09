@@ -1,6 +1,5 @@
 this is a new file.
 and i use this file do a test.
-@!$!%#$^%$^#%$&^&^#
-
+@服务器更改内容
 todayday i will use github .
 now second modify record.
